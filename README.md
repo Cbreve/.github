@@ -32,7 +32,7 @@ We’re always excited to welcome new contributors! Here’s how you can join ou
 
 ## 📬 Contact Us
 
-For inquiries, collaborations, or any questions, please reach out to us at [contact@cbreve.org](mailto:cbreveglobal@gmail.com) or connect with us on our social platforms.
+For inquiries, collaborations, or any questions, please reach out to us at [Cbreve](mailto:cbreveglobal@gmail.com) or connect with us on our social platforms.
 
 ---
 
@@ -40,7 +40,7 @@ For inquiries, collaborations, or any questions, please reach out to us at [cont
 
 Stay connected and join our journey towards a brighter tech-enabled future:
 
-- **Twitter**: [@Cbreveglobal]()
+- **Twitter**: [@Cbreveglobal](https://www.twitter.com/cbreve151047)
 - **LinkedIn**: [Cbreve](https://www.linkedin.com/company/cbreve/)
 - **Website**: [www.cbreve.org](#)
 
